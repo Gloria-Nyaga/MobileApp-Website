@@ -1,0 +1,126 @@
+body{
+    align-items: center;
+    padding-left: 200px;
+    padding-right:200px ;
+}
+button{
+    background:rgb(14, 14, 70);
+    color: white;
+    width: 130px;
+    height: 50px;
+    border-radius: 20%;
+}
+.play{
+    background-color: white;
+    color: black;
+}
+#store{
+    gap: 3%;
+    display: flex;
+}
+#images{
+    display: flex;
+    flex-direction: row;
+    width: 50px;
+    height: 50px;
+    gap: 60%;
+    border-top: 10%;
+}
+.over{
+    text-align: center;
+}
+#page1{
+    align-items: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.profilepic{
+    border-style: dashed;
+    gap: 20%;
+    border-width: 40%;
+}
+#reserved{
+    background-color: black;
+    color:rgb(223, 218, 218);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 5%;
+
+}
+.id{
+    display: flex;
+    flex-direction: row; 
+    align-items: center;
+    gap: 1%;
+    margin-left: 8%;
+   
+}
+#footer{
+    display: flex;
+    flex-direction: row;
+    gap: 10%;
+    align-items: center;
+    background-color: rgb(40, 40, 63);
+    color: white;
+    margin-top: 3%;
+}
+.points{
+    color: rgb(124, 121, 121);
+}
+#brands{
+    display: flex;
+    flex-direction: row;
+    gap: 20%;
+    align-items: center;
+    padding-left: 40px;
+}
+#drawing{
+    display: flex;
+    flex-direction: row;
+    gap: 10%;
+    padding-left: 50px;
+    align-items: center;
+
+}
+#logo{
+    padding-left: 36px;
+    margin-bottom: 10%;
+
+}
